@@ -1,0 +1,7 @@
+TransLangKey,Language,TransDescription,Few,Many,One,Other,Two,Zero,CreationDate
+child_under_16_years_error_message_en,en,Children under the age of 16 years must be always accompanied by a passenger over 16 years. Children travelling with an adult that is booked on a separate reservation cannot check-in online. Please contact you local reservations centre for further assistance.,,,,,,,2015-02-16
+passengers_without_seats_error_message_en,en,passengers_without_seats_error_message,,,,,,,2015-02-16
+Val_MustSelectSeats_en,en,To be able to book Business Plus flight you must select seats for all passengers.,,,,,,,2015-02-16
+Val_MustSelectSeats_title_en,en,Seats not selected,,,,,,,2015-02-16
+error_network_message_en,en,Please check your network connection and try again.,,,,,,,2015-02-17
+title_nationalities_en,en,title_nationalities,,,,,,,2015-02-17

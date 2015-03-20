@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Translations.Models.TransLang>
+
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+	@Html.ActionLink("Create New", "Create")
+	<div>Choose Language: @Html.DropDownList("lang", Translations.Helpers.Core.ListLanguages, new { @id = "transLangdrop", @class = "transLangdrop" })</div>
+</p>
+
+<div class="renderPartial">
+	@Html.Partial("_TransList")
+</div>
+
+
+

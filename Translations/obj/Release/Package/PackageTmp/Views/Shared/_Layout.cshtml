@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>@ViewBag.Title - My ASP.NET MVC Application</title>
+	<link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+		<link rel="stylesheet" href="~/Content/font-awesome-4.1.0/css/font-awesome.min.css">
+
+
+	<meta name="viewport" content="width=device-width" />
+	@Styles.Render("~/Content/css")
+	@Scripts.Render("~/bundles/modernizr")
+		@Scripts.Render("~/bundles/jquery")
+		@Scripts.Render("~/bundles/jqueryval")
+	@Scripts.Render("~/bundles/jqueryui")
+	@Scripts.Render("~/bundles/custom")
+</head>
+<body>
+	<header>
+		<div class="content-wrapper">
+			<div class="float-left">
+				<p class="site-title">@Html.ActionLink("your logo here", "Index", "Home")</p>
+			</div>
+			<div class="float-right">
+				<section id="login">
+					@Html.Partial("_LoginPartial")
+				</section>
+				@{
+					var user = Session[System.Configuration.ConfigurationManager.AppSettings["userSessionKey"].ToString()];
+				}
+
+				@if (user != null)
+	{
+					<nav>
+						<ul class="menuUl">
+							<li>
+								<a href="/Languages">Languages</a>
+								<a href="/Tags">Tags</a>
+								<a href="/FileFolder">Folders Configuration</a>
+								<a href="/Translations">Translations</a>
+								<a href="/Export">Export / Import</a>
+							</li>
+						</ul>
+					</nav>
+	}
+
+			</div>
+		</div>
+	</header>
+	<div id="body">
+		@RenderSection("featured", required: false)
+		<section class="content-wrapper main-content clear-fix">
+			@RenderBody()
+		</section>
+	</div>
+	<footer>
+		<div class="content-wrapper">
+			<div class="float-left">
+				<p>&copy; @DateTime.Now.Year - My ASP.NET MVC Application</p>
+			</div>
+		</div>
+	</footer>
+	@RenderSection("scripts", required: false)
+</body>
+</html>

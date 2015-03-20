@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Translations.Models.TransPlural>
+@{
+		string action = ViewContext.RouteData.Values["action"] as string;
+}
+<div class="transSection">
+	@Html.Label("Plural", new {@class="header" })
+	<ul class="checkListPlurals">
+		@foreach (var plural in Translations.Helpers.Core.ListPlurals)
+  {
+			<li>
+ 				<input type="checkbox" class="pluralCheck" name="TransPlural.PluralKey" value="@plural.Value" id="pluralKey" @(Model != null && Model.Count() > 0 && Model.Any(x=>x.Plural.PluralKey.Equals(plural.Value,StringComparison.InvariantCultureIgnoreCase) && x.IsActive) ? "checked=checked" : "") />
+				<label class="checkbox" for="@plural.Value">@plural.Text</label>
+				<input type="text" class="pluralInput @(Model != null && Model.Count() > 0 && Model.Any(x=>x.Plural.PluralKey.Equals(plural.Value,StringComparison.InvariantCultureIgnoreCase) && x.IsActive) ? "" : "hide")" name="transPlural.PluralDescription" id="pluralInput" value="@(Model != null && Model.Count() > 0 && Model.Any(x=>x.Plural.PluralKey.Equals(plural.Value,StringComparison.InvariantCultureIgnoreCase) && x.IsActive) ? Model.First(x=>x.Plural.PluralKey.Equals(plural.Value,StringComparison.InvariantCultureIgnoreCase)).PluralDescription :"")"/>
+@*				@if(action.Equals("edit",StringComparison.InvariantCultureIgnoreCase))
+				{
+					<input type="hidden" class="pluralInput @(Model != null && Model.Count() > 0 && Model.Any(x=>x.Plural.PluralKey.Equals(plural.Value,StringComparison.InvariantCultureIgnoreCase) && x.IsActive) ? "" : "hide")" name="transPlural.TransPluralKey" id="pluralInputKey" value="@(Model != null && Model.Count() > 0 && Model.Any(x=>x.Plural.PluralKey.Equals(plural.Value,StringComparison.InvariantCultureIgnoreCase) && x.IsActive) ? Model.First(x=>x.Plural.PluralKey.Equals(plural.Value,StringComparison.InvariantCultureIgnoreCase)).TransPluralKey : "")"/>
+				}*@
+			</li>
+  }
+	</ul>
+</div>

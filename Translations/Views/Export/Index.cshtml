@@ -1,0 +1,40 @@
+﻿@{
+	ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm("Export", "Export",FormMethod.Post, new { @class="exportForm formLoading" }))
+{
+	@Html.AntiForgeryToken()
+	@Html.ValidationSummary(true)
+<div class="editor-label">
+	<label for="IsBase">Tag</label>
+</div>
+<div class="editor-field">
+	@Html.DropDownList("tagkey", Translations.Helpers.Core.ListTags)
+</div>
+<div class="editor-label">
+	<label for="IsBase">Type</label>
+</div>
+<div class="editor-field">
+	@Html.DropDownList("exportType", Translations.Helpers.Core.ListExportTypes)
+</div>
+	
+<div class="editor-label">
+	<label for="IsBase">From: (for CSV Type)</label>
+</div>
+<div class="editor-field">
+	@Html.TextBox("cDate", string.Empty, new { @class = "FRDatepickerDefault bagsInput " })
+</div>
+	<p>
+		<input type="submit" class="btn" value="Export" />
+	</p>
+}
+
+
+@using (Html.BeginForm("Import", "Export", FormMethod.Post, new { enctype = "multipart/form-data", @class = "formImport formLoading" }))
+	{ 
+		<input type="file" class="fileInput" name="file" />
+		<input type="submit" class="importBtn" value="Import To DB" />
+		<div class="msgAlert">ATTENTION: IMPORT only for EN language</div>
+	}  

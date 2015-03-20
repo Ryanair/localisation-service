@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Translations.Models.FileFolder>
+
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>List Of Folder</h2>
+
+<p>
+	@Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="transTable paginated">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Folder Name</th>
+			<th>File Name</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+  {
+			<tr>
+				<td>@Html.DisplayFor(modelItem => item.FolderLangId)</td>
+				<td>@Html.DisplayFor(modelItem => item.FolderName)</td>
+				<td>@Html.DisplayFor(modelItem => item.FileName)</td>
+				<td>@Html.ActionLink("Edit", "Edit", new { id = item.FolderLangId }, new { @class = "editRow" })</td>
+			</tr>
+  }
+	</tbody>
+</table>

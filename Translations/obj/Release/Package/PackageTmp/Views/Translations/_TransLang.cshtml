@@ -1,0 +1,22 @@
+﻿@model  string
+@{
+	var actionName = ViewContext.RouteData.GetRequiredString("action");
+	bool status = ViewData["active"] != null ? (bool)ViewData["active"] : false;
+	string transLangKey = (string)ViewData["transLangKey"];
+}
+<div class="transSection">
+	@Html.Label("Translation", new { @class = "header" })
+	<input type="text" name="TransLang.TransDescription" id="TransDescription" class="text-box single-line" value="@(!string.IsNullOrEmpty(Model) ? Model : "")">
+
+	@if (actionName.Equals("edit", StringComparison.InvariantCultureIgnoreCase) && !string.IsNullOrEmpty(transLangKey))
+ {
+	 if (status)
+	 {
+		@Html.ActionLink("Inactivate", "Inactivate", "Translations", new {transLangKey=transLangKey }, new {id="inactivate" })
+	 }
+	 else
+	 {
+		@Html.ActionLink("Activate", "Activate", "Translations", new {transLangKey = transLangKey }, new {id="activate" })
+	 }
+ }
+</div>

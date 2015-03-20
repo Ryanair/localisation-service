@@ -1,0 +1,16 @@
+﻿@model  IEnumerable<Translations.Models.TransTag>
+@{
+	string action = ViewContext.RouteData.Values["action"] as string;
+	}
+<div class="tagContainer @(!action.Equals("edit",StringComparison.InvariantCultureIgnoreCase) ? "hide" : "")">
+	<ul class="checkListTags">
+		@foreach (var tag in Translations.Helpers.Core.ListTags)
+  {
+			<li>
+				<input type="checkbox" id="tagKey" name="Tags.TagKey" value="@tag.Value" @(Model != null && Model.Count() > 0 && Model.Any(x=> x.Tags.TagKey == tag.Value && x.IsActive == true) ? "checked=checked" : "") />
+				<label class="checkbox" for="@tag.Value">@tag.Text</label>
+			</li>
+  }
+	</ul>
+</div>
+

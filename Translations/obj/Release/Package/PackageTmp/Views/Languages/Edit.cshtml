@@ -1,0 +1,52 @@
+﻿@model Translations.Models.Languages
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Languages</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.LangKey)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.LangKey)
+            @Html.ValidationMessageFor(model => model.LangKey)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.LangText)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.LangText)
+            @Html.ValidationMessageFor(model => model.LangText)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.IsActive)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.IsActive)
+            @Html.ValidationMessageFor(model => model.IsActive)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

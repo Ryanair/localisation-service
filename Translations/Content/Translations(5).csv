@@ -1,0 +1,383 @@
+TransLangKey,Language,TransDescription,Few,Many,One,Other,Two,Zero,CreationDate
+accept_en,en,"accept",,,,,,,2015-02-10
+action_settings_en,en,"Settings",,,,,,,2015-02-10
+active_trip_en,en,"Active trip",,,,,,,2015-02-10
+add_bags_and_sports_equipment_en,en,"Add Bags & Sports Equipment",,,,,,,2015-02-10
+add_bags_en,en,"Add bags",,,,,,,2015-02-10
+add_boarding_pass_en,en,"Add Boarding Pass For This Booking",,,,,,,2015-02-10
+add_emergency_contact_en,en,"Add Emergency Contact",,,,,,,2015-02-10
+add_en,en,"Add",,,,,,,2015-02-10
+add_it_to_cart_en,en,"Add it to the Cart",,,,,,,2015-02-10
+add_other_equipment_en,en,"Add other equipment",,,,,,,2015-02-10
+add_trip_extras_en,en,"Add some Trip Extras",,,,,,,2015-02-10
+adt_description_en,en,"16+ years",,,,,,,2015-02-10
+adt_fare_en,en,"Adult Fare",,,1 x Adult Fare,%d x Adult Fares,,,2015-02-10
+adt_inf_restriction_en,en,"You cannot travel with more infants than adults",,,,,,,2015-02-10
+adt_pax_title_en,en,"adt_pax_title",,,,,,,2015-02-10
+adults_en,en,"Adults",,,,,,,2015-02-10
+aircraft_en,en,"✈",,,,,,,2015-02-10
+airport_promoted_en,en,"airport_promoted",,,,,,,2015-02-10
+airports_adapter_all_en,en,"All",,,,,,,2015-02-10
+airports_adapter_nearby_en,en,"Nearby",,,,,,,2015-02-10
+airports_adapter_no_gps_en,en,"No GPS location can be determined. To find nearby airports please turn on GPS on your device.",,,,,,,2015-02-10
+airports_adapter_no_location_en,en,"No location can be determined.",,,,,,,2015-02-10
+airports_adapter_recentSearch_en,en,"Recent Search",,,,,,,2015-02-10
+and_en ,en,"and",,,,,,,2015-02-10
+app_name_en,en,"Ryanair",,,,,,,2015-02-10
+arrival_en,en,"Arrival",,,,,,,2015-02-10
+arrives_en,en,"Arrives ",,,,,,,2015-02-10
+availability_en,en,"Availability",,,,,,,2015-02-10
+availability_label_operated_en,en,"Operated by %s",,,,,,,2015-02-10
+bags_en,en,"Bags",,,,,,,2015-02-10
+bags_info_en,en,"Free cabin bag up to 10kg + one small bag permitted. Purchase up to 2 checked-in bags per person, Max combined weight of 35kg.",,,,,,,2015-02-10
+bags_title_en,en,"bags_title",,,,,,,2015-02-10
+barcode_en,en,"Barcode",,,,,,,2015-02-10
+billing_address_en,en,"Billing Address",,,,,,,2015-02-10
+billing_country_en,en,"Billing Country",,,,,,,2015-02-10
+birth_date_en,en,"Birth Date",,,,,,,2015-02-10
+boarding_en,en,"Boarding",,,,,,,2015-02-10
+boarding_pass_en,en,"Boarding pass",,,,,,,2015-02-10
+book_en,en,"BOOK FLIGHT",,,,,,,2015-02-10
+booking_confirmed_en,en,"Booking Confirmed",,,,,,,2015-02-10
+booking_not_confirmed_en,en,"Your booking is not confirmed until you receive an email",,,,,,,2015-02-10
+booking_pending_en,en,"Booking Pending",,,,,,,2015-02-10
+business_fare_en,en,"Business plus",,,,,,,2015-02-10
+business_plus_en,en,"Business plus",,,,,,,2015-02-10
+business_plus_included_en,en,"Included",,,,,,,2015-02-10
+business_plus_info_baggage_en,en,"20kg Baggage allowance",,,,,,,2015-02-10
+business_plus_info_fast_track_en,en,"Fast track airport security*",,,,,,,2015-02-10
+business_plus_info_fast_track_info_en,en,"*Available in selected airports",,,,,,,2015-02-10
+business_plus_info_flexible_en,en,"Flexibility on ticket changes",,,,,,,2015-02-10
+business_plus_info_priority_en,en,"Priority Boarding",,,,,,,2015-02-10
+business_plus_info_seating_en,en,"Premium Seat",,,,,,,2015-02-10
+business_plus_info_tc_en,en,"Terms and Conditions",,,,,,,2015-02-10
+business_plus_info_title_en,en,"Business Plus includes",,,,,,,2015-02-10
+business_plus_select_seats_en,en,"Business Plus passengers are entitled to a FREE Premium or Standard seat, please select your seat now.",,,,,,,2015-02-10
+cabin_baggage_en,en,"Cabin baggage",,,,,,,2015-02-10
+calendar_day_name_format_en,en,"EEE",,,,,,,2015-02-10
+calendar_invalid_date_en,en,"Date must be between %1$s and %2$s.",,,,,,,2015-02-10
+calendar_month_name_format_en,en,"MMMM yyyy",,,,,,,2015-02-10
+cancel_en,en,"Cancel",,,,,,,2015-02-10
+car_hire_en,en,"Car hire",,,,,,,2015-02-10
+card_details_en,en,"Card Details",,,,,,,2015-02-10
+card_extra_bags_bullets_en ,en,"card_extra_bags_bullets",,,,,,,2015-02-10
+card_extra_bags_bullets_selected_en ,en,"Bags added x %s",,,Bag added x %s,,,,2015-02-10
+card_extra_insurance_bullets_en ,en,"card_extra_insurance_bullets",,,,,,,2015-02-10
+card_extra_insurance_bullets_selected_en ,en,"Insurance added x %s",,,,,,,2015-02-10
+card_extra_insurence_bullets_en ,en,"",,,,,,,2015-02-10
+card_extra_modify_en ,en,"Modify",,,,,,,2015-02-10
+card_extra_seats_bullets_en,en,"card_extra_seats_bullets",,,,,,,2015-02-10
+card_extra_seats_bullets_selected_en ,en,"Seats added x %d",,,,,,,2015-02-10
+card_extra_title_bags_en ,en,"Check-in Bags",,,,,,,2015-02-10
+card_extra_title_bags_selected_en ,en,"Your Bags",,,,,,,2015-02-10
+card_extra_title_insurance_en ,en,"Add Insurance",,,,,,,2015-02-10
+card_extra_title_insurance_selected_en ,en,"Your Insurance",,,,,,,2015-02-10
+card_extra_title_seats_en ,en,"Select Seats",,,,,,,2015-02-10
+card_extra_title_seats_selected_en ,en,"Your Seats",,,,,,,2015-02-10
+card_number_en,en,"Card Number",,,,,,,2015-02-10
+card_number_last_four_digits_en,en,"Credit/Debit Number (Last 4 digits only)",,,,,,,2015-02-10
+card_number_less_four_numbers_en,en,"Card number has less than four digits.",,,,,,,2015-02-10
+card_type_en,en,"Type of Card",,,,,,,2015-02-10
+ccc_fee_en,en,"Credit card fee",,,,,,,2015-02-10
+chd_description_en,en,"2-15 years",,,,,,,2015-02-10
+chd_fare_en,en,"Child Fare",,,1 x Child Fare,%d x Child Fares,,,2015-02-10
+checkin_bag_en ,en,"Check-in bag",,,,,,,2015-02-10
+checkin_bags_en,en,"Check-in bags",,,1 x Check-in bag,%d x Check-in bags,,,2015-02-10
+children_en,en,"Children",,,,,,,2015-02-10
+choose_destination_en,en,"Choose your departure airport",,,,,,,2015-02-10
+choose_origin_en,en,"Choose origin station",,,,,,,2015-02-10
+cities_promoted_en,en,"cities_promoted",,,,,,,2015-02-10
+city_en,en,"City",,,,,,,2015-02-10
+city_landscape_en,en,"City landscape",,,,,,,2015-02-10
+close_en,en,"Close",,,,,,,2015-02-10
+completed_en,en,"Completed",,,,,,,2015-02-10
+confirm_en,en,"Confirm",,,,,,,2015-02-10
+contact_details_en,en,"Contact Details",,,,,,,2015-02-10
+continue_text_en,en,"Continue",,,,,,,2015-02-10
+country_code_en,en,"Country Code",,,,,,,2015-02-10
+country_en,en,"Country",,,,,,,2015-02-10
+credit_card_en,en,"Credit card",,,,,,,2015-02-10
+credit_card_number_help_en,en,"Enter credit or debit card number",,,,,,,2015-02-10
+cvv_en,en,"CVV",,,,,,,2015-02-10
+date_en,en,"Date",,,,,,,2015-02-10
+date_field_error_en,en,"Please Select Date",,,,,,,2015-02-10
+debit_card_en,en,"Debit card",,,,,,,2015-02-10
+depart_date_en,en,"Depart On:",,,,,,,2015-02-10
+departs_en,en,"Departs ",,,,,,,2015-02-10
+departure_en,en,"Departure",,,,,,,2015-02-10
+dob_en,en,"D.O.B.",,,,,,,2015-02-10
+DOB_MAX_DATE_OUTBOUND_VALIDATION_en,en,"DOB_MAX_DATE_OUTBOUND_VALIDATION",,,,,,,2015-02-10
+DOB_MIN_DATE_INBOUND_VALIDATION_en,en,"DOB_MIN_DATE_INBOUND_VALIDATION",,,,,,,2015-02-10
+DOB_MIN_DATE_OUTBOUND_VALIDATION_en,en,"DOB_MIN_DATE_OUTBOUND_VALIDATION",,,,,,,2015-02-10
+done_en,en,"Done",,,,,,,2015-02-10
+drawer_close_en,en,"Close navigation drawer",,,,,,,2015-02-10
+drawer_open_en,en,"Open navigation drawer",,,,,,,2015-02-10
+duplicate_pax_name_en,en,"Duplicate passenger names are not allowed",,,,,,,2015-02-10
+duration_en,en,"Duration",,,,,,,2015-02-10
+email_address_en,en,"Email Address",,,,,,,2015-02-10
+email_en,en,"Email",,,,,,,2015-02-10
+emergency_contact_en,en,"Emergency Contact",,,,,,,2015-02-10
+enter_documents_en,en,"Enter documents",,,,,,,2015-02-10
+enter_last_four_digits_of_card_en,en,"enter_last_four_digits_of_card",,,,,,,2015-02-10
+enter_number_en,en,"Enter number",,,,,,,2015-02-10
+enter_password_en,en,"Enter your password",,,,,,,2015-02-10
+enter_username_en,en,"Enter your username",,,,,,,2015-02-10
+error_generic_message_en,en,"An error occurred. Please try again.",,,,,,,2015-02-10
+error_processing_message_en,en,"We were not able to process your request at this time.
+Please try again later",,,,,,,2015-02-10
+error_processing_request_en,en,"Error processing request",,,,,,,2015-02-10
+errors_logging_out_en,en,"Errors found trying to log you out",,,,,,,2015-02-10
+es_discount_warning_en,en,"We are unable to offer the Spanish resident discount on the Ryanair mobile app. It is available for eligible passengers on Ryanair.com.",,,,,,,2015-02-10
+exchange_rate_en,en,"Exchange Rate",,,,,,,2015-02-10
+exchange_rate_message_en,en,"If you do not wish to accept the exchange rate of %s please tap reject. The rate on this currency transaction is guaranteed and will not vary. The rate you receive from your bank is not guaranteed, and is subject to daily fluctuations.",,,,,,,2015-02-10
+expiration_date_help_en,en,"Expiration date (MM/DD)",,,,,,,2015-02-10
+expiry_date_en,en,"Expiry Date",,,,,,,2015-02-10
+extra_card_business_plus_message_bags_en,en,"Free with Business Plus",,,,,,,2015-02-10
+extra_card_business_plus_message_seats_en,en,"Free with Business Plus",,,,,,,2015-02-10
+fast_track_en,en,"Fast track",,,,,,,2015-02-10
+fill_all_fields_en,en,"Please fill all fields",,,,,,,2015-02-10
+filter_airports_en,en,"Filter airports",,,,,,,2015-02-10
+filter_countries_en,en,"Filter countries",,,,,,,2015-02-10
+find_flight_by_number_en,en,"Find Flight by Number",,,,,,,2015-02-10
+find_flight_by_route_en,en,"Find Flight by Route",,,,,,,2015-02-10
+find_your_booking_en,en,"Find Your Booking",,,,,,,2015-02-10
+find_your_flights_en,en,"Find your flights",,,,,,,2015-02-10
+first_name_en,en,"First name",,,,,,,2015-02-10
+flight_en,en,"Flight",,,,,,,2015-02-10
+flight_info_en,en,"Flight info",,,,,,,2015-02-10
+flight_number_en,en,"Flight #",,,,,,,2015-02-10
+flight_restriction_minutes_en,en,"Can\'t select flights %d hours prior departure",,,,,,,2015-02-10
+flight_status_en,en,"Flight Status ",,,,,,,2015-02-10
+flights_are_sold_out_en,en,"The flights are sold out",,,,,,,2015-02-10
+fly_back_en,en,"Fly Back",,,,,,,2015-02-10
+fly_out_en,en,"Fly Out",,,,,,,2015-02-10
+fraud_station_notice_en,en,"The selected route cannot be booked in our mobile app. Please contact Ryanair call centre or changed your planned trip.",,,,,,,2015-02-10
+free_en,en,"FREE",,,,,,,2015-02-10
+from_en,en,"From:",,,,,,,2015-02-10
+gate_closes_at_en,en,"Gate closes at",,,,,,,2015-02-10
+generic_error_en,en,"An error occured",,,,,,,2015-02-10
+get_offers_en,en,"Get our offers emailed to you",,,,,,,2015-02-10
+getting_availability_en,en,"Getting available flights
+Please wait",,,,,,,2015-02-10
+go_one_way_en,en,"Go one way",,,,,,,2015-02-10
+guest_email_en,en,"guest.email@ryanair.com",,,,,,,2015-02-10
+guest_en,en,"Guest",,,,,,,2015-02-10
+hello_world_en,en,"Hello world!",,,,,,,2015-02-10
+hint_select_airport_en,en,"Enter city or airport...",,,,,,,2015-02-10
+home_en,en,"Home",,,,,,,2015-02-10
+home_menu_descriptions_en,en,"home_menu_descriptions",,,,,,,2015-02-10
+hotels_en,en,"Hotels",,,,,,,2015-02-10
+hours_abbreviate_en,en,"hr",,,,,,,2015-02-10
+important_en,en,"Important",,,,,,,2015-02-10
+inbound_date_error_en,en,"Fly back date",,,,,,,2015-02-10
+incorrect_email_en,en,"Email is incorrect.",,,,,,,2015-02-10
+inf_description_en,en,"Under 2",,,,,,,2015-02-10
+inf_fare_en,en,"Infant Fare",,,1 x Infant Fare,%d x Infant Fares,,,2015-02-10
+infant_en,en,"Infant",,,,,,,2015-02-10
+infants_en,en,"Infants",,,,,,,2015-02-10
+info_en,en,"Info",,,,,,,2015-02-10
+inspire_me_en,en,"Inspire me",,,,,,,2015-02-10
+insurance_en,en,"Insurance",,,,%d x Insurance,,,2015-02-10
+insurance_header_en,en,"Passengers must be a resident in the country of departure to avail of travel insurance.",,,,,,,2015-02-10
+insurance_notice_en,en,"Ryanair offers insurance to customers who are a resident of the country of departure. Please visit Ryanair.com if you are not normally resident in the departure country but would like to purchase travel insurance.",,,,,,,2015-02-10
+invalid_email_en,en,"Invalid email",,,,,,,2015-02-10
+invalid_value_en,en,"Invalid value",,,,,,,2015-02-10
+label_list_bag_en,en,"%1$s %2$.2f %3$s",,,,,,,2015-02-10
+label_list_bag_free_en,en,"%1$s FREE",,,,,,,2015-02-10
+last_name_en,en,"Last name",,,,,,,2015-02-10
+loading_en,en,"Loading",,,,,,,2015-02-10
+loading_next_schedule_en,en,"Loading schedule for next six months",,,,,,,2015-02-10
+loading_schedule_en,en,"Loading availability schedule",,,,,,,2015-02-10
+Logging_en,en,"Logging",,,,,,,2015-02-10
+login_en,en,"Log In",,,,,,,2015-02-10
+login_not_valid_en,en,"The user does not exist or the password is invalid. Please, try again.",,,,,,,2015-02-10
+logOut_en,en,"Log Out",,,,,,,2015-02-10
+lorem_en,en,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget interdum ante, at adipiscing ipsum. Phasellus pellentesque commodo libero, id volutpat ipsum pretium at. Duis sit amet egestas nisi. Donec id dui eu lectus volutpat posuere. Nunc et viverra ante, vel malesuada tortor. Pellentesque ut interdum tellus, sit amet hendrerit dui. Sed accumsan, nisl eu tincidunt tempus, neque lorem sodales odio, non tristique orci lorem quis augue. In sodales rutrum faucibus. Morbi egestas massa sit amet ante pellentesque, eu laoreet ante congue. Sed aliquet, dolor ac placerat pellentesque, risus leo fermentum quam, eget eleifend tellus nulla euismod tellus. Donec adipiscing cursus leo et faucibus. Aliquam erat volutpat.",,,,,,,2015-02-10
+lorem_short_en,en,"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",,,,,,,2015-02-10
+lowest_fare_en,en,"Lowest fare",,,,,,,2015-02-10
+manage_trip_en,en,"Manage trip",,,,,,,2015-02-10
+marker_seats_en ,en,"Row %1$s: seats %2$s",,,,,,,2015-02-10
+mastercard_and_visa_en,en,"Mastercard / Visa",,,,,,,2015-02-10
+max_infant_error_en,en,"Infant count has exceeded the maximum allowed value",,,,,,,2015-02-10
+max_pax_error_en,en,"Passenger count has exceeded the maximum allowed value",,,,,,,2015-02-10
+max_pax_restriction_en,en,"The maximum allowed passenger count for a booking is %d",,,,,,,2015-02-10
+minimum_connection_time_en,en,"Insufficient transfer time",,,,,,,2015-02-10
+minutes_abbreviate_en,en,"mins",,,,,,,2015-02-10
+my_flights_en,en,"My flights",,,,,,,2015-02-10
+name_en,en,"Name",,,,,,,2015-02-10
+name_on_card_en,en,"Name on Card",,,,,,,2015-02-10
+next_en,en,"Next",,,,,,,2015-02-10
+no_en,en,"No",,,,,,,2015-02-10
+no_flights_extends_en,en,"Sorry, there is no flight available on this date",,,,,,,2015-02-10
+no_flights_found_en,en,"No flights found",,,,,,,2015-02-10
+no_results_en,en,"No Results",,,,,,,2015-02-10
+not_implemented_en,en,"Not implemented yet",,,,,,,2015-02-10
+number_of_adults_en,en,"number_of_adults",,,%d Adult,%d Adults,,,2015-02-10
+number_of_children_en,en,"number_of_children",,,%d Child,%d Children,,,2015-02-10
+number_of_infants_en,en,"number_of_infants",,,%d Infant,%d Infants,,,2015-02-10
+ok_en,en,"OK",,,,,,,2015-02-10
+one_way_en,en,"One way",,,,,,,2015-02-10
+only_in_airport_en,en,"Only available in airport",,,,,,,2015-02-10
+other_queue_en,en,"Other queue",,,,,,,2015-02-10
+outbound_date_error_en,en,"Fly out date",,,,,,,2015-02-10
+passenger_en,en,"Passenger",,,,,,,2015-02-10
+passengers_en,en,"Passengers",,,,,,,2015-02-10
+password_en,en,"Password",,,,,,,2015-02-10
+pax_details_added_en,en,"Passenger details added x %d",,,,,,,2015-02-10
+pax_transition_name_en,en,"paxTransition",,,,,,,2015-02-10
+pay_en,en,"Pay now",,,,,,,2015-02-10
+payment_declined_en,en,"Your payment has been declined.",,,,,,,2015-02-10
+phone_en,en,"Phone",,,,,,,2015-02-10
+phone_number_en,en,"Phone Number",,,,,,,2015-02-10
+pick_inbound_date_en,en,"Pick your inbound date",,,,,,,2015-02-10
+pick_outbound_date_en,en,"Pick your outbound date",,,,,,,2015-02-10
+plan_trip_en,en,"Your journey begins here",,,,,,,2015-02-10
+postal_code_en,en,"Postcode",,,,,,,2015-02-10
+premium_en ,en,"Premium",,,,,,,2015-02-10
+premium_seats_en,en,"Premium Seats",,,,,,,2015-02-10
+previous_en,en,"Previous",,,,,,,2015-02-10
+price_summary_en,en,"Price summary",,,,,,,2015-02-10
+priority_boarding_en,en,"Priority boarding",,,,%d x Priority boarding,,,2015-02-10
+priority_boarding_popup_text_en,en,"priority_boarding_popup_text",,,,,,,2015-02-10
+priority_boarding_popup_title_en,en,"Do you also want Priority Boarding?",,,,,,,2015-02-10
+product_card_bags_title_en,en,"Check-in bags",,,,,,,2015-02-10
+product_card_insurance_title_en,en,"Add insurance",,,,,,,2015-02-10
+product_card_seats_title_en,en,"Your seats",,,,,,,2015-02-10
+queue_en,en,"Queue",,,,,,,2015-02-10
+reject_en ,en,"Reject",,,,,,,2015-02-10
+remove_en,en,"Remove",,,,,,,2015-02-10
+required_field_en,en,"Required field",,,,,,,2015-02-10
+reservation_en,en,"Reservation",,,,,,,2015-02-10
+reservation_number_en,en,"Reservation Number",,,,,,,2015-02-10
+reservation_number_less_six_characters_en,en,"Reservation number has less than 6 characters.",,,,,,,2015-02-10
+reserved_seat_en,en,"Reserved Seat",,,Reserved Seat,%d x Reserved Seats,,,2015-02-10
+retrieve_booking_no_card_number_en,en,"Enter a card number",,,,,,,2015-02-10
+retrieve_booking_no_mail_en,en,"Enter an Email",,,,,,,2015-02-10
+retrieve_booking_no_reservation_number_en,en,"Enter a reservation number",,,,,,,2015-02-10
+retrieve_my_booking_en,en,"Retrieve my Booking",,,,,,,2015-02-10
+return_date_en,en,"Return On:",,,,,,,2015-02-10
+return_flight_earlier_than_outbound_en,en,"Return flight cannot be earlier than the outbound flight",,,,,,,2015-02-10
+return_home_en,en,"Return Home",,,,,,,2015-02-10
+return_trip_en,en,"Return",,,,,,,2015-02-10
+row_en ,en,"row",,,,,,,2015-02-10
+rows_en ,en,"",,,,,,,2015-02-10
+ryanair_en,en,"RYANAIR",,,,,,,2015-02-10
+search_en,en,"Search",,,,,,,2015-02-10
+seasonal_route_unavailable_en,en,"The seasonal route is not available within the next six months",,,,,,,2015-02-10
+seat_en,en,"Seat",,,,,,,2015-02-10
+seat_map_clear_all_the_selection_en ,en,"Clear all",,,,,,,2015-02-10
+seat_map_ok_en ,en,"OK",,,,,,,2015-02-10
+seat_map_select_en ,en,"Select",,,,,,,2015-02-10
+seatmap_add_to_cart_en,en,"Add to the Cart",,,,,,,2015-02-10
+seatmap_assign_seat_en,en,"Assign seat",,,,,,,2015-02-10
+seatmap_business_seat_included_en,en,"(included with Business Plus)",,,,,,,2015-02-10
+seatmap_error_selection_business_en,en,"Your Business Plus fare includes free seat allocation, please select your seat to proceed.",,,,,,,2015-02-10
+seatmap_invalid_seat_child_and_infant_en,en,"seatmap_invalid_seat_child_and_infant",,,,,,,2015-02-10
+seatmap_invalid_seat_child_en,en,"For safety reasons child cannot sit in emergency exit rows or in-front/behind an emergency exit row. Please select another seat",,,,,,,2015-02-10
+seatmap_invalid_seat_infant_en,en,"For safety reasons you cannot sit in emergency exit rows or in-front/behind an emergency exit row with an infant. Please select a window seat",,,,,,,2015-02-10
+seatmap_selection_inbound_seat_en,en,"Please select your inbound seats",,,,,,,2015-02-10
+seatmap_selection_outbound_seat_en,en,"Please select your outbound seats",,,,,,,2015-02-10
+seats_left_en,en,"seats_left",,,%d seat left,%d seats left,,,2015-02-10
+seats_legend_en ,en,"Seats legend",,,,,,,2015-02-10
+seats_legend_extra_en ,en,"Extra leg room (%s)",,,,,,,2015-02-10
+seats_legend_msg_infant_rules_en ,en,"For safety reasons infants must be accompanied by an adult and can be seated in the following seats:",,,,,,,2015-02-10
+seats_legend_not_available_en ,en,"Not available",,,,,,,2015-02-10
+seats_legend_premium_en ,en,"Premium (%s)",,,,,,,2015-02-10
+seats_legend_priority_marker_en ,en,"Priority Boarding is free for all customers who purchase a Premium Seat (%s).",,,,,,,2015-02-10
+seats_legend_selected_en ,en,"Selected",,,,,,,2015-02-10
+seats_legend_standard_en ,en,"Standard (%s)",,,,,,,2015-02-10
+seats_legend_title_infant_rules_en ,en,"Infant seat rules",,,,,,,2015-02-10
+seats_legend_title_priority_boarding_en ,en,"Priority Boarding",,,,,,,2015-02-10
+security_code_help_en,en,"Security code",,,,,,,2015-02-10
+select_date_en,en,"Select Date",,,,,,,2015-02-10
+select_departure_date_first_en,en,"Select departure date first",,,,,,,2015-02-10
+select_destination_station_en,en,"Please choose your departure airport",,,,,,,2015-02-10
+select_info_business_en,en,"Learn more about Business Plus",,,,,,,2015-02-10
+select_origin_destination_en,en,"Please select origin and destination",,,,,,,2015-02-10
+select_origin_station_en,en,"Don\'t forget your departure station",,,,,,,2015-02-10
+select_passenger_en,en,"Select a Passenger",,,,,,,2015-02-10
+select_pax_title_en,en,"Select passengers",,,,,,,2015-02-10
+select_your_dates_en ,en,"Select your dates",,,,,,,2015-02-10
+selected_pax_placeholder_en,en,"1 Adult",,,,,,,2015-02-10
+sequence_en,en,"Sequence",,,,,,,2015-02-10
+share_en,en,"SHARE",,,,,,,2015-02-10
+share_flight_en,en,"Share flight",,,,,,,2015-02-10
+slogan_en,en,"Slogan",,,,,,,2015-02-10
+sold_out_en,en,"SOLD OUT",,,,,,,2015-02-10
+standard_en ,en,"Standard",,,,,,,2015-02-10
+standard_seats_en,en,"Standard Seats",,,,,,,2015-02-10
+str_address_en,en,"Street Address",,,,,,,2015-02-10
+sub_total_en,en,"Sub Total:",,,,,,,2015-02-10
+summary_en,en,"Summary",,,,,,,2015-02-10
+summary_select_en,en,"New Search",,,,,,,2015-02-10
+summary_selection_en,en,"Your flight selections",,,,,,,2015-02-10
+tab_messages_en,en,"Messages",,,,,,,2015-02-10
+tab_notifications_en,en,"Notifications",,,,,,,2015-02-10
+tab_photos_en,en,"Photos",,,,,,,2015-02-10
+tab_stream_en,en,"Stream",,,,,,,2015-02-10
+taxes_and_fees_en,en,"Taxes and fees",,,,,,,2015-02-10
+terms_conditions_article_en,en,"Terms & Conditions Article",,,,,,,2015-02-10
+terms_conditions_en,en,"Terms & Conditions",,,,,,,2015-02-10
+thanks_for_booking_en,en,"Thanks for booking with Ryanair",,,,,,,2015-02-10
+title_activity_additional_equipment_en,en,"Equipment",,,,,,,2015-02-10
+title_activity_airports_en,en,"Select your destination",,,,,,,2015-02-10
+title_activity_availability_en,en,"Available flights",,,,,,,2015-02-10
+title_activity_bags_en,en,"Add bags",,,,,,,2015-02-10
+title_activity_bags_info_en ,en,"Add bags",,,,,,,2015-02-10
+title_activity_booking_pax_en,en,"Passenger info",,,,,,,2015-02-10
+title_activity_calendar_en,en,"Calendar",,,,,,,2015-02-10
+title_activity_check_in_en,en,"Check-in",,,,,,,2015-02-10
+title_activity_insurance_en,en,"Insurance",,,,,,,2015-02-10
+title_activity_manage_booking_addons_en,en,"Manage Booking",,,,,,,2015-02-10
+title_activity_passengers_info_en,en,"Passengers",,,,,,,2015-02-10
+title_activity_pax_select_en,en,"Select passengers",,,,,,,2015-02-10
+title_activity_payment_en,en,"Payment",,,,,,,2015-02-10
+title_activity_seat_map_en,en,"Seats",,,,,,,2015-02-10
+title_activity_seats_info_en ,en,"Seats info",,,,,,,2015-02-10
+title_activity_travel_document_en,en,"Travel Document",,,,,,,2015-02-10
+title_activity_web_page_en,en,"Web page",,,,,,,2015-02-10
+title_countries_en,en,"Select Billing Country",,,,,,,2015-02-10
+title_en,en,"Title",,,,,,,2015-02-10
+to_en,en,"Destination:",,,,,,,2015-02-10
+trying_log_you_in_en,en,"Trying to log you in",,,,,,,2015-02-10
+trying_to_logout_en,en,"Trying to log you out",,,,,,,2015-02-10
+username_en,en,"Username",,,,,,,2015-02-10
+Val_CantSpecifyDepartureDateBeforeToday_en,en,"You can not specify a departure date before today.",,,,,,,2015-02-10
+Val_DialogButton_en,en,"Fix them",,,,,,,2015-02-10
+Val_DialogMessageTitle_en,en,"Validation Issues",,,,,,,2015-02-10
+Val_MustSpecifyDestinationAirport_en,en,"You must specify a destination airport.",,,,,,,2015-02-10
+Val_MustSpecifyOneAdultAtLeast_en,en,"You must specify at least one adult.",,,,,,,2015-02-10
+Val_MustSpecifyOriginAirport_en,en,"You must specify a origin airport.",,,,,,,2015-02-10
+Val_MustSpecifyValidDepartureDate_en,en,"You must specify a valid departure date.",,,,,,,2015-02-10
+Val_MustSpecifyValidReturnDate_en,en,"You must specify a valid return date.",,,,,,,2015-02-10
+Val_ReturnDateCantBeBeforeDepartureDate_en,en,"Your return date can not be before the departure date.",,,,,,,2015-02-10
+view_policy_en,en,"View Policy",,,,,,,2015-02-10
+wait_for_email_en,en,"Please wait for an email",,,,,,,2015-02-10
+yes_en,en,"Yes",,,,,,,2015-02-10
+your_boarding_passes_en,en,"Your boarding passes",,,,,,,2015-02-10
+your_trip_en,en,"Your trip",,,,,,,2015-02-10
+test_admin_en,en,"test_admin_english_editedaaa",,,,,,,2015-02-11
+credit_card_type_help_en,en,"Select credit or debit card type",,,,,,,2015-02-12
+try_again_en,en,"Try Again",,,,,,,2015-02-12
+vat_en,en,"VAT",,,,,,,2015-02-12
+buy_seat_and_checkin_en,en,"Buy a seat & check-in",,,,,,,2015-02-13
+check_in_en,en,"Check-in",,,,,,,2015-02-13
+checkin_now_en,en,"Check-in now",,,,,,,2015-02-13
+checkin_opens_en,en,"Check in opens in %d days",,,,,,,2015-02-13
+checkin_passengers_popup_text_en,en,"checkin_passengers_popup_text",,,,,,,2015-02-13
+checkin_passengers_popup_title_en,en,"checkin_passengers_popup_title",,,,,,,2015-02-13
+flight_complete_en,en,"Flight complete",,,,,,,2015-02-13
+free_allocate_en,en,"Free Allocate",,,,,,,2015-02-13
+invalid_vat_en,en,"Invalid VAT",,,,,,,2015-02-13
+no_selected_passengers_error_message_en,en,"no_selected_passengers_error_message",,,,,,,2015-02-13
+not_now_en,en,"Not now",,,,,,,2015-02-13
+purchase_seat_en,en,"Purchase Seat",,,,,,,2015-02-13
+retrieve_boarding_pass_en,en,"Retrieve Boarding pass",,,,,,,2015-02-13
+select_flight_en,en,"Select flight",,,,,,,2015-02-13
+total_en,en,"Total:",,,,,,,2015-02-13
+child_under_16_years_error_message_en,en,"Children under the age of 16 years must be always accompanied by a passenger over 16 years. Children travelling with an adult that is booked on a separate reservation cannot check-in online. Please contact you local reservations centre for further assistance.",,,,,,,2015-02-16
+passengers_without_seats_error_message_en,en,"passengers_without_seats_error_message",,,,,,,2015-02-16
+Val_MustSelectSeats_en,en,"To be able to book Business Plus flight you must select seats for all passengers.",,,,,,,2015-02-16
+Val_MustSelectSeats_title_en,en,"Seats not selected",,,,,,,2015-02-16
+error_network_message_en,en,"Please check your network connection and try again.",,,,,,,2015-02-17
+title_nationalities_en,en,"title_nationalities",,,,,,,2015-02-17

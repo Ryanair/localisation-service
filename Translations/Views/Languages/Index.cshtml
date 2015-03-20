@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Translations.Models.Languages>
+
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>List Of Languages</h2>
+
+<p>
+	@Html.ActionLink("Create New", "Create")
+</p>
+
+@if (Model != null)
+{
+	<table class="transTable paginated">
+		<thead>
+			<tr>
+				<th>Key</th>
+				<th>Description</th>
+				<th>Active</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+   {
+				<tr>
+					<td>@Html.DisplayFor(modelItem => item.LangKey)</td>
+					<td>@Html.DisplayFor(modelItem => item.LangText)</td>
+					<td>
+						@if (item.IsActive)
+						{
+							@:<i class='fa fa-check fa-2'></i>
+						}
+					</td>
+					<td>
+						@Html.ActionLink("Edit", "Edit", new { id = item.LangKey }, new { @class = "editRow" })
+					</td>
+				</tr>
+   }
+		</tbody>
+	</table>
+}

@@ -1,0 +1,59 @@
+﻿@model Translations.Models.Translations
+@{
+	ViewBag.Title = "Edit";
+	var idx = 0;
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm("Edit", "Translations", FormMethod.Post, new { @class = "createTransForm" }))
+{
+	@Html.AntiForgeryToken()
+	@Html.ValidationSummary(true)
+
+	<div class="editor-label">
+		@Html.LabelFor(model => model.TransKey)
+	</div>
+	<div class="editor-field">
+		@Html.EditorFor(model => model.TransKey)
+		@Html.ValidationMessageFor(model => model.TransKey)
+	</div>
+	@Html.Partial("_TransTag", Model != null && Model.TransTag != null ? Model.TransTag : new List<Translations.Models.TransTag>())
+	<div class="langContainer">
+		@foreach (var lang in Translations.Helpers.Core.ListLanguages)
+  {
+	  Translations.Models.TransLang transLang = new Translations.Models.TransLang();
+	  if (Model != null)
+	  {
+		 transLang = Model.TransLang.FirstOrDefault(x => x.Languages.LangKey.Trim().Equals(lang.Value.Trim(), StringComparison.InvariantCultureIgnoreCase) && x.IsActive);
+	  }
+	  ViewBag.currentIdx = idx;
+	  ViewBag.langKey = lang.Value;
+			<fieldset class="@(transLang != null ? "active" : "")">
+				<legend class="langHeader">@(lang.Text)</legend>
+				<div class="langDescription @(transLang != null ? "" : "hide")" data-language="@(lang.Value)">
+					<input type="hidden" id="langKey" name="language[@idx].LangKey" value="@(lang.Value)" />
+					<input type="hidden" id="langText" name="language[@idx].LangText" value="@(lang.Text)" />
+					<input type="hidden" id="langIsActive" name="language[@idx].isActive" value="true" />
+					@Html.Partial("_TransLang", transLang != null && transLang.TransDescription != null ? transLang.TransDescription : "", new ViewDataDictionary { { "active", transLang != null ? transLang.IsActive : false},{"transLangKey",transLang != null ? transLang.TransLangKey : ""} })
+					@Html.Partial("_TransPlural", transLang != null && transLang.TransPlural != null? transLang.TransPlural : new List<Translations.Models.TransPlural>())
+					@Html.Partial("_TransArray", transLang != null && transLang.TransArray!=null? transLang.TransArray : new List<Translations.Models.TransArray>())
+				</div>
+			</fieldset>
+	  idx++;
+  }
+	</div>
+	<div class="buttonsContainer">
+	<p>
+		<input type="submit" value="Save" />
+	</p>
+		</div>
+}
+
+<div>
+	@Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jqueryval")
+}

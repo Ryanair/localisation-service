@@ -1,0 +1,48 @@
+﻿@model Translations.Models.Translations
+@{
+	ViewBag.Title = "Create";
+	var idx = 0;
+}
+@using (Html.BeginForm("Create", "Translations", FormMethod.Post, new { @class = "createTransForm" }))
+{
+	@Html.AntiForgeryToken()
+	@Html.ValidationSummary(true)
+	<h2>Create Translation</h2>
+	<div class="labelContainer">
+		@Html.Label("Translation ID")
+		@Html.EditorFor(model => model.TransKey) <a href="#" class="validateTrans">Validate ID</a>
+	</div>
+	@Html.Partial("_TransTag")
+	<div class="langContainer hide">
+		@foreach (var lang in Translations.Helpers.Core.ListLanguages)
+  {
+	  ViewBag.currentIdx = idx;
+	  ViewBag.langKey = lang.Value;
+			<fieldset>
+				<legend class="langHeader">@(lang.Text)</legend>
+				<div class="langDescription hide" data-language="@(lang.Value)">
+					<input type="hidden" id="langKey" name="language[@idx].LangKey" value="@(lang.Value)" />
+					<input type="hidden" id="langText" name="language[@idx].LangText" value="@(lang.Text)" />
+					<input type="hidden" id="langIsActive" name="language[@idx].isActive" value="true" />
+					@Html.Partial("_TransLang")
+					@Html.Partial("_TransPlural")
+					@Html.Partial("_TransArray")
+				</div>
+			</fieldset>
+	  idx++;
+  }
+	</div>
+	<div class="buttonsContainer hide">
+		<p>
+			<input type="submit" value="Create" />
+		</p>
+	</div>
+}
+
+<div>
+	@Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jqueryval")
+}

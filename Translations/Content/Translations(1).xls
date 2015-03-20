@@ -1,0 +1,769 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">TransLangKey</th><th scope="col">Language</th><th scope="col">TransDescription</th><th scope="col">Few</th><th scope="col">Many</th><th scope="col">One</th><th scope="col">Other</th><th scope="col">Two</th><th scope="col">Zero</th><th scope="col">CreationDate</th>
+		</tr><tr>
+			<td>accept_en</td><td>en</td><td>accept</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>action_settings_en</td><td>en</td><td>Settings</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>active_trip_en</td><td>en</td><td>Active trip</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>add_bags_and_sports_equipment_en</td><td>en</td><td>Add Bags &amp; Sports Equipment</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>add_bags_en</td><td>en</td><td>Add bags</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>add_boarding_pass_en</td><td>en</td><td>Add Boarding Pass For This Booking</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>add_emergency_contact_en</td><td>en</td><td>Add Emergency Contact</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>add_en</td><td>en</td><td>Add</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>add_it_to_cart_en</td><td>en</td><td>Add it to the Cart</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>add_other_equipment_en</td><td>en</td><td>Add other equipment</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>add_trip_extras_en</td><td>en</td><td>Add some Trip Extras</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>adt_description_en</td><td>en</td><td>16+ years</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>adt_fare_en</td><td>en</td><td>Adult Fare</td><td>&nbsp;</td><td>&nbsp;</td><td>1 x Adult Fare</td><td>%d x Adult Fares</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>adt_inf_restriction_en</td><td>en</td><td>You cannot travel with more infants than adults</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>adt_pax_title_en</td><td>en</td><td>adt_pax_title</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>adults_en</td><td>en</td><td>Adults</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>aircraft_en</td><td>en</td><td>✈</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>airport_promoted_en</td><td>en</td><td>airport_promoted</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>airports_adapter_all_en</td><td>en</td><td>All</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>airports_adapter_nearby_en</td><td>en</td><td>Nearby</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>airports_adapter_no_gps_en</td><td>en</td><td>No GPS location can be determined. To find nearby airports please turn on GPS on your device.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>airports_adapter_no_location_en</td><td>en</td><td>No location can be determined.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>airports_adapter_recentSearch_en</td><td>en</td><td>Recent Search</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>and_en </td><td>en</td><td>and</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>app_name_en</td><td>en</td><td>Ryanair</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>arrival_en</td><td>en</td><td>Arrival</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>arrives_en</td><td>en</td><td>Arrives </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>availability_en</td><td>en</td><td>Availability</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>availability_label_operated_en</td><td>en</td><td>Operated by %s</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>bags_en</td><td>en</td><td>Bags</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>bags_info_en</td><td>en</td><td>Free cabin bag up to 10kg + one small bag permitted. Purchase up to 2 checked-in bags per person, Max combined weight of 35kg.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>bags_title_en</td><td>en</td><td>bags_title</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>barcode_en</td><td>en</td><td>Barcode</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>billing_address_en</td><td>en</td><td>Billing Address</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>billing_country_en</td><td>en</td><td>Billing Country</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>birth_date_en</td><td>en</td><td>Birth Date</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>boarding_en</td><td>en</td><td>Boarding</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>boarding_pass_en</td><td>en</td><td>Boarding pass</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>book_en</td><td>en</td><td>BOOK FLIGHT</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>booking_confirmed_en</td><td>en</td><td>Booking Confirmed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>booking_not_confirmed_en</td><td>en</td><td>Your booking is not confirmed until you receive an email</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>booking_pending_en</td><td>en</td><td>Booking Pending</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_fare_en</td><td>en</td><td>Business plus</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_en</td><td>en</td><td>Business plus</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_included_en</td><td>en</td><td>Included</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_info_baggage_en</td><td>en</td><td>20kg Baggage allowance</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_info_fast_track_en</td><td>en</td><td>Fast track airport security*</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_info_fast_track_info_en</td><td>en</td><td>*Available in selected airports</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_info_flexible_en</td><td>en</td><td>Flexibility on ticket changes</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_info_priority_en</td><td>en</td><td>Priority Boarding</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_info_seating_en</td><td>en</td><td>Premium Seat</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_info_tc_en</td><td>en</td><td>Terms and Conditions</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_info_title_en</td><td>en</td><td>Business Plus includes</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>business_plus_select_seats_en</td><td>en</td><td>Business Plus passengers are entitled to a FREE Premium or Standard seat, please select your seat now.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>cabin_baggage_en</td><td>en</td><td>Cabin baggage</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>calendar_day_name_format_en</td><td>en</td><td>EEE</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>calendar_invalid_date_en</td><td>en</td><td>Date must be between %1$s and %2$s.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>calendar_month_name_format_en</td><td>en</td><td>MMMM yyyy</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>cancel_en</td><td>en</td><td>Cancel</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>car_hire_en</td><td>en</td><td>Car hire</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_details_en</td><td>en</td><td>Card Details</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_bags_bullets_en </td><td>en</td><td>card_extra_bags_bullets</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_bags_bullets_selected_en </td><td>en</td><td>Bags added x %s</td><td>&nbsp;</td><td>&nbsp;</td><td>Bag added x %s</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_insurance_bullets_en </td><td>en</td><td>card_extra_insurance_bullets</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_insurance_bullets_selected_en </td><td>en</td><td>Insurance added x %s</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_insurence_bullets_en </td><td>en</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_modify_en </td><td>en</td><td>Modify</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_seats_bullets_en</td><td>en</td><td>card_extra_seats_bullets</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_seats_bullets_selected_en </td><td>en</td><td>Seats added x %d</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_title_bags_en </td><td>en</td><td>Check-in Bags</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_title_bags_selected_en </td><td>en</td><td>Your Bags</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_title_insurance_en </td><td>en</td><td>Add Insurance</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_title_insurance_selected_en </td><td>en</td><td>Your Insurance</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_title_seats_en </td><td>en</td><td>Select Seats</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_extra_title_seats_selected_en </td><td>en</td><td>Your Seats</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_number_en</td><td>en</td><td>Card Number</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_number_last_four_digits_en</td><td>en</td><td>Credit/Debit Number (Last 4 digits only)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_number_less_four_numbers_en</td><td>en</td><td>Card number has less than four digits.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>card_type_en</td><td>en</td><td>Type of Card</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>ccc_fee_en</td><td>en</td><td>Credit card fee</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>chd_description_en</td><td>en</td><td>2-15 years</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>chd_fare_en</td><td>en</td><td>Child Fare</td><td>&nbsp;</td><td>&nbsp;</td><td>1 x Child Fare</td><td>%d x Child Fares</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>checkin_bag_en </td><td>en</td><td>Check-in bag</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>checkin_bags_en</td><td>en</td><td>Check-in bags</td><td>&nbsp;</td><td>&nbsp;</td><td>1 x Check-in bag</td><td>%d x Check-in bags</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>children_en</td><td>en</td><td>Children</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>choose_destination_en</td><td>en</td><td>Choose your departure airport</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>choose_origin_en</td><td>en</td><td>Choose origin station</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>cities_promoted_en</td><td>en</td><td>cities_promoted</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>city_en</td><td>en</td><td>City</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>city_landscape_en</td><td>en</td><td>City landscape</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>close_en</td><td>en</td><td>Close</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>completed_en</td><td>en</td><td>Completed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>confirm_en</td><td>en</td><td>Confirm</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>contact_details_en</td><td>en</td><td>Contact Details</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>continue_text_en</td><td>en</td><td>Continue</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>country_code_en</td><td>en</td><td>Country Code</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>country_en</td><td>en</td><td>Country</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>credit_card_en</td><td>en</td><td>Credit card</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>credit_card_number_help_en</td><td>en</td><td>Enter credit or debit card number</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>cvv_en</td><td>en</td><td>CVV</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>date_en</td><td>en</td><td>Date</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>date_field_error_en</td><td>en</td><td>Please Select Date</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>debit_card_en</td><td>en</td><td>Debit card</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>depart_date_en</td><td>en</td><td>Depart On:</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>departs_en</td><td>en</td><td>Departs </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>departure_en</td><td>en</td><td>Departure</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>dob_en</td><td>en</td><td>D.O.B.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>DOB_MAX_DATE_OUTBOUND_VALIDATION_en</td><td>en</td><td>DOB_MAX_DATE_OUTBOUND_VALIDATION</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>DOB_MIN_DATE_INBOUND_VALIDATION_en</td><td>en</td><td>DOB_MIN_DATE_INBOUND_VALIDATION</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>DOB_MIN_DATE_OUTBOUND_VALIDATION_en</td><td>en</td><td>DOB_MIN_DATE_OUTBOUND_VALIDATION</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>done_en</td><td>en</td><td>Done</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>drawer_close_en</td><td>en</td><td>Close navigation drawer</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>drawer_open_en</td><td>en</td><td>Open navigation drawer</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>duplicate_pax_name_en</td><td>en</td><td>Duplicate passenger names are not allowed</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>duration_en</td><td>en</td><td>Duration</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>email_address_en</td><td>en</td><td>Email Address</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>email_en</td><td>en</td><td>Email</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>emergency_contact_en</td><td>en</td><td>Emergency Contact</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>enter_documents_en</td><td>en</td><td>Enter documents</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>enter_last_four_digits_of_card_en</td><td>en</td><td>enter_last_four_digits_of_card</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>enter_number_en</td><td>en</td><td>Enter number</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>enter_password_en</td><td>en</td><td>Enter your password</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>enter_username_en</td><td>en</td><td>Enter your username</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>error_generic_message_en</td><td>en</td><td>An error occurred. Please try again.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>error_processing_message_en</td><td>en</td><td>We were not able to process your request at this time.
+Please try again later</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>error_processing_request_en</td><td>en</td><td>Error processing request</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>errors_logging_out_en</td><td>en</td><td>Errors found trying to log you out</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>es_discount_warning_en</td><td>en</td><td>We are unable to offer the Spanish resident discount on the Ryanair mobile app. It is available for eligible passengers on Ryanair.com.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>exchange_rate_en</td><td>en</td><td>Exchange Rate</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>exchange_rate_message_en</td><td>en</td><td>If you do not wish to accept the exchange rate of %s please tap reject. The rate on this currency transaction is guaranteed and will not vary. The rate you receive from your bank is not guaranteed, and is subject to daily fluctuations.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>expiration_date_help_en</td><td>en</td><td>Expiration date (MM/DD)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>expiry_date_en</td><td>en</td><td>Expiry Date</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>extra_card_business_plus_message_bags_en</td><td>en</td><td>Free with Business Plus</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>extra_card_business_plus_message_seats_en</td><td>en</td><td>Free with Business Plus</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>fast_track_en</td><td>en</td><td>Fast track</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>fill_all_fields_en</td><td>en</td><td>Please fill all fields</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>filter_airports_en</td><td>en</td><td>Filter airports</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>filter_countries_en</td><td>en</td><td>Filter countries</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>find_flight_by_number_en</td><td>en</td><td>Find Flight by Number</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>find_flight_by_route_en</td><td>en</td><td>Find Flight by Route</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>find_your_booking_en</td><td>en</td><td>Find Your Booking</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>find_your_flights_en</td><td>en</td><td>Find your flights</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>first_name_en</td><td>en</td><td>First name</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>flight_en</td><td>en</td><td>Flight</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>flight_info_en</td><td>en</td><td>Flight info</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>flight_number_en</td><td>en</td><td>Flight #</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>flight_restriction_minutes_en</td><td>en</td><td>Can\&#39;t select flights %d hours prior departure</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>flight_status_en</td><td>en</td><td>Flight Status </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>flights_are_sold_out_en</td><td>en</td><td>The flights are sold out</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>fly_back_en</td><td>en</td><td>Fly Back</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>fly_out_en</td><td>en</td><td>Fly Out</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>fraud_station_notice_en</td><td>en</td><td>The selected route cannot be booked in our mobile app. Please contact Ryanair call centre or changed your planned trip.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>free_en</td><td>en</td><td>FREE</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>from_en</td><td>en</td><td>From:</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>gate_closes_at_en</td><td>en</td><td>Gate closes at</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>generic_error_en</td><td>en</td><td>An error occured</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>get_offers_en</td><td>en</td><td>Get our offers emailed to you</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>getting_availability_en</td><td>en</td><td>Getting available flights
+Please wait</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>go_one_way_en</td><td>en</td><td>Go one way</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>guest_email_en</td><td>en</td><td>guest.email@ryanair.com</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>guest_en</td><td>en</td><td>Guest</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>hello_world_en</td><td>en</td><td>Hello world!</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>hint_select_airport_en</td><td>en</td><td>Enter city or airport...</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>home_en</td><td>en</td><td>Home</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>home_menu_descriptions_en</td><td>en</td><td>home_menu_descriptions</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>hotels_en</td><td>en</td><td>Hotels</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>hours_abbreviate_en</td><td>en</td><td>hr</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>important_en</td><td>en</td><td>Important</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>inbound_date_error_en</td><td>en</td><td>Fly back date</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>incorrect_email_en</td><td>en</td><td>Email is incorrect.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>inf_description_en</td><td>en</td><td>Under 2</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>inf_fare_en</td><td>en</td><td>Infant Fare</td><td>&nbsp;</td><td>&nbsp;</td><td>1 x Infant Fare</td><td>%d x Infant Fares</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>infant_en</td><td>en</td><td>Infant</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>infants_en</td><td>en</td><td>Infants</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>info_en</td><td>en</td><td>Info</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>inspire_me_en</td><td>en</td><td>Inspire me</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>insurance_en</td><td>en</td><td>Insurance</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>%d x Insurance</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>insurance_header_en</td><td>en</td><td>Passengers must be a resident in the country of departure to avail of travel insurance.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>insurance_notice_en</td><td>en</td><td>Ryanair offers insurance to customers who are a resident of the country of departure. Please visit Ryanair.com if you are not normally resident in the departure country but would like to purchase travel insurance.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>invalid_email_en</td><td>en</td><td>Invalid email</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>invalid_value_en</td><td>en</td><td>Invalid value</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>label_list_bag_en</td><td>en</td><td>%1$s %2$.2f %3$s</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>label_list_bag_free_en</td><td>en</td><td>%1$s FREE</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>last_name_en</td><td>en</td><td>Last name</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>loading_en</td><td>en</td><td>Loading</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>loading_next_schedule_en</td><td>en</td><td>Loading schedule for next six months</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>loading_schedule_en</td><td>en</td><td>Loading availability schedule</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Logging_en</td><td>en</td><td>Logging</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>login_en</td><td>en</td><td>Log In</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>login_not_valid_en</td><td>en</td><td>The user does not exist or the password is invalid. Please, try again.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>logOut_en</td><td>en</td><td>Log Out</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>lorem_en</td><td>en</td><td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget interdum ante, at adipiscing ipsum. Phasellus pellentesque commodo libero, id volutpat ipsum pretium at. Duis sit amet egestas nisi. Donec id dui eu lectus volutpat posuere. Nunc et viverra ante, vel malesuada tortor. Pellentesque ut interdum tellus, sit amet hendrerit dui. Sed accumsan, nisl eu tincidunt tempus, neque lorem sodales odio, non tristique orci lorem quis augue. In sodales rutrum faucibus. Morbi egestas massa sit amet ante pellentesque, eu laoreet ante congue. Sed aliquet, dolor ac placerat pellentesque, risus leo fermentum quam, eget eleifend tellus nulla euismod tellus. Donec adipiscing cursus leo et faucibus. Aliquam erat volutpat.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>lorem_short_en</td><td>en</td><td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>lowest_fare_en</td><td>en</td><td>Lowest fare</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>manage_trip_en</td><td>en</td><td>Manage trip</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>marker_seats_en </td><td>en</td><td>Row %1$s: seats %2$s</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>mastercard_and_visa_en</td><td>en</td><td>Mastercard / Visa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>max_infant_error_en</td><td>en</td><td>Infant count has exceeded the maximum allowed value</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>max_pax_error_en</td><td>en</td><td>Passenger count has exceeded the maximum allowed value</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>max_pax_restriction_en</td><td>en</td><td>The maximum allowed passenger count for a booking is %d</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>minimum_connection_time_en</td><td>en</td><td>Insufficient transfer time</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>minutes_abbreviate_en</td><td>en</td><td>mins</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>my_flights_en</td><td>en</td><td>My flights</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>name_en</td><td>en</td><td>Name</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>name_on_card_en</td><td>en</td><td>Name on Card</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>next_en</td><td>en</td><td>Next</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>no_en</td><td>en</td><td>No</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>no_flights_extends_en</td><td>en</td><td>Sorry, there is no flight available on this date</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>no_flights_found_en</td><td>en</td><td>No flights found</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>no_results_en</td><td>en</td><td>No Results</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>not_implemented_en</td><td>en</td><td>Not implemented yet</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>number_of_adults_en</td><td>en</td><td>number_of_adults</td><td>&nbsp;</td><td>&nbsp;</td><td>%d Adult</td><td>%d Adults</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>number_of_children_en</td><td>en</td><td>number_of_children</td><td>&nbsp;</td><td>&nbsp;</td><td>%d Child</td><td>%d Children</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>number_of_infants_en</td><td>en</td><td>number_of_infants</td><td>&nbsp;</td><td>&nbsp;</td><td>%d Infant</td><td>%d Infants</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>ok_en</td><td>en</td><td>OK</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>one_way_en</td><td>en</td><td>One way</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>only_in_airport_en</td><td>en</td><td>Only available in airport</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>other_queue_en</td><td>en</td><td>Other queue</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>outbound_date_error_en</td><td>en</td><td>Fly out date</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>passenger_en</td><td>en</td><td>Passenger</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>passengers_en</td><td>en</td><td>Passengers</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>password_en</td><td>en</td><td>Password</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>pax_details_added_en</td><td>en</td><td>Passenger details added x %d</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>pax_transition_name_en</td><td>en</td><td>paxTransition</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>pay_en</td><td>en</td><td>Pay now</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>payment_declined_en</td><td>en</td><td>Your payment has been declined.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>phone_en</td><td>en</td><td>Phone</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>phone_number_en</td><td>en</td><td>Phone Number</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>pick_inbound_date_en</td><td>en</td><td>Pick your inbound date</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>pick_outbound_date_en</td><td>en</td><td>Pick your outbound date</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>plan_trip_en</td><td>en</td><td>Your journey begins here</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>postal_code_en</td><td>en</td><td>Postcode</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>premium_en </td><td>en</td><td>Premium</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>premium_seats_en</td><td>en</td><td>Premium Seats</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>previous_en</td><td>en</td><td>Previous</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>price_summary_en</td><td>en</td><td>Price summary</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>priority_boarding_en</td><td>en</td><td>Priority boarding</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>%d x Priority boarding</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>priority_boarding_popup_text_en</td><td>en</td><td>priority_boarding_popup_text</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>priority_boarding_popup_title_en</td><td>en</td><td>Do you also want Priority Boarding?</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>product_card_bags_title_en</td><td>en</td><td>Check-in bags</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>product_card_insurance_title_en</td><td>en</td><td>Add insurance</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>product_card_seats_title_en</td><td>en</td><td>Your seats</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>queue_en</td><td>en</td><td>Queue</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>reject_en </td><td>en</td><td>Reject</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>remove_en</td><td>en</td><td>Remove</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>required_field_en</td><td>en</td><td>Required field</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>reservation_en</td><td>en</td><td>Reservation</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>reservation_number_en</td><td>en</td><td>Reservation Number</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>reservation_number_less_six_characters_en</td><td>en</td><td>Reservation number has less than 6 characters.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>reserved_seat_en</td><td>en</td><td>Reserved Seat</td><td>&nbsp;</td><td>&nbsp;</td><td>Reserved Seat</td><td>%d x Reserved Seats</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>retrieve_booking_no_card_number_en</td><td>en</td><td>Enter a card number</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>retrieve_booking_no_mail_en</td><td>en</td><td>Enter an Email</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>retrieve_booking_no_reservation_number_en</td><td>en</td><td>Enter a reservation number</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>retrieve_my_booking_en</td><td>en</td><td>Retrieve my Booking</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>return_date_en</td><td>en</td><td>Return On:</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>return_flight_earlier_than_outbound_en</td><td>en</td><td>Return flight cannot be earlier than the outbound flight</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>return_home_en</td><td>en</td><td>Return Home</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>return_trip_en</td><td>en</td><td>Return</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>row_en </td><td>en</td><td>row</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>rows_en </td><td>en</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>ryanair_en</td><td>en</td><td>RYANAIR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>search_en</td><td>en</td><td>Search</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seasonal_route_unavailable_en</td><td>en</td><td>The seasonal route is not available within the next six months</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seat_en</td><td>en</td><td>Seat</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seat_map_clear_all_the_selection_en </td><td>en</td><td>Clear all</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seat_map_ok_en </td><td>en</td><td>OK</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seat_map_select_en </td><td>en</td><td>Select</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seatmap_add_to_cart_en</td><td>en</td><td>Add to the Cart</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seatmap_assign_seat_en</td><td>en</td><td>Assign seat</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seatmap_business_seat_included_en</td><td>en</td><td>(included with Business Plus)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seatmap_error_selection_business_en</td><td>en</td><td>Your Business Plus fare includes free seat allocation, please select your seat to proceed.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seatmap_invalid_seat_child_and_infant_en</td><td>en</td><td>seatmap_invalid_seat_child_and_infant</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seatmap_invalid_seat_child_en</td><td>en</td><td>For safety reasons child cannot sit in emergency exit rows or in-front/behind an emergency exit row. Please select another seat</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seatmap_invalid_seat_infant_en</td><td>en</td><td>For safety reasons you cannot sit in emergency exit rows or in-front/behind an emergency exit row with an infant. Please select a window seat</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seatmap_selection_inbound_seat_en</td><td>en</td><td>Please select your inbound seats</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seatmap_selection_outbound_seat_en</td><td>en</td><td>Please select your outbound seats</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_left_en</td><td>en</td><td>seats_left</td><td>&nbsp;</td><td>&nbsp;</td><td>%d seat left</td><td>%d seats left</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_legend_en </td><td>en</td><td>Seats legend</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_legend_extra_en </td><td>en</td><td>Extra leg room (%s)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_legend_msg_infant_rules_en </td><td>en</td><td>For safety reasons infants must be accompanied by an adult and can be seated in the following seats:</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_legend_not_available_en </td><td>en</td><td>Not available</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_legend_premium_en </td><td>en</td><td>Premium (%s)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_legend_priority_marker_en </td><td>en</td><td>Priority Boarding is free for all customers who purchase a Premium Seat (%s).</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_legend_selected_en </td><td>en</td><td>Selected</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_legend_standard_en </td><td>en</td><td>Standard (%s)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_legend_title_infant_rules_en </td><td>en</td><td>Infant seat rules</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>seats_legend_title_priority_boarding_en </td><td>en</td><td>Priority Boarding</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>security_code_help_en</td><td>en</td><td>Security code</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>select_date_en</td><td>en</td><td>Select Date</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>select_departure_date_first_en</td><td>en</td><td>Select departure date first</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>select_destination_station_en</td><td>en</td><td>Please choose your departure airport</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>select_info_business_en</td><td>en</td><td>Learn more about Business Plus</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>select_origin_destination_en</td><td>en</td><td>Please select origin and destination</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>select_origin_station_en</td><td>en</td><td>Don\&#39;t forget your departure station</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>select_passenger_en</td><td>en</td><td>Select a Passenger</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>select_pax_title_en</td><td>en</td><td>Select passengers</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>select_your_dates_en </td><td>en</td><td>Select your dates</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>selected_pax_placeholder_en</td><td>en</td><td>1 Adult</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>sequence_en</td><td>en</td><td>Sequence</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>share_en</td><td>en</td><td>SHARE</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>share_flight_en</td><td>en</td><td>Share flight</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>slogan_en</td><td>en</td><td>Slogan</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>sold_out_en</td><td>en</td><td>SOLD OUT</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>standard_en </td><td>en</td><td>Standard</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>standard_seats_en</td><td>en</td><td>Standard Seats</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>str_address_en</td><td>en</td><td>Street Address</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>sub_total_en</td><td>en</td><td>Sub Total:</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>summary_en</td><td>en</td><td>Summary</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>summary_select_en</td><td>en</td><td>New Search</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>summary_selection_en</td><td>en</td><td>Your flight selections</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>tab_messages_en</td><td>en</td><td>Messages</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>tab_notifications_en</td><td>en</td><td>Notifications</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>tab_photos_en</td><td>en</td><td>Photos</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>tab_stream_en</td><td>en</td><td>Stream</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>taxes_and_fees_en</td><td>en</td><td>Taxes and fees</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>terms_conditions_article_en</td><td>en</td><td>Terms &amp; Conditions Article</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>terms_conditions_en</td><td>en</td><td>Terms &amp; Conditions</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>thanks_for_booking_en</td><td>en</td><td>Thanks for booking with Ryanair</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_additional_equipment_en</td><td>en</td><td>Equipment</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_airports_en</td><td>en</td><td>Select your destination</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_availability_en</td><td>en</td><td>Available flights</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_bags_en</td><td>en</td><td>Add bags</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_bags_info_en </td><td>en</td><td>Add bags</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_booking_pax_en</td><td>en</td><td>Passenger info</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_calendar_en</td><td>en</td><td>Calendar</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_check_in_en</td><td>en</td><td>Check-in</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_insurance_en</td><td>en</td><td>Insurance</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_manage_booking_addons_en</td><td>en</td><td>Manage Booking</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_passengers_info_en</td><td>en</td><td>Passengers</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_pax_select_en</td><td>en</td><td>Select passengers</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_payment_en</td><td>en</td><td>Payment</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_seat_map_en</td><td>en</td><td>Seats</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_seats_info_en </td><td>en</td><td>Seats info</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_travel_document_en</td><td>en</td><td>Travel Document</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_activity_web_page_en</td><td>en</td><td>Web page</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_countries_en</td><td>en</td><td>Select Billing Country</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_en</td><td>en</td><td>Title</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>to_en</td><td>en</td><td>Destination:</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>trying_log_you_in_en</td><td>en</td><td>Trying to log you in</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>trying_to_logout_en</td><td>en</td><td>Trying to log you out</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>username_en</td><td>en</td><td>Username</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_CantSpecifyDepartureDateBeforeToday_en</td><td>en</td><td>You can not specify a departure date before today.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_DialogButton_en</td><td>en</td><td>Fix them</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_DialogMessageTitle_en</td><td>en</td><td>Validation Issues</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_MustSpecifyDestinationAirport_en</td><td>en</td><td>You must specify a destination airport.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_MustSpecifyOneAdultAtLeast_en</td><td>en</td><td>You must specify at least one adult.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_MustSpecifyOriginAirport_en</td><td>en</td><td>You must specify a origin airport.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_MustSpecifyValidDepartureDate_en</td><td>en</td><td>You must specify a valid departure date.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_MustSpecifyValidReturnDate_en</td><td>en</td><td>You must specify a valid return date.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_ReturnDateCantBeBeforeDepartureDate_en</td><td>en</td><td>Your return date can not be before the departure date.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>view_policy_en</td><td>en</td><td>View Policy</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>wait_for_email_en</td><td>en</td><td>Please wait for an email</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>yes_en</td><td>en</td><td>Yes</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>your_boarding_passes_en</td><td>en</td><td>Your boarding passes</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>your_trip_en</td><td>en</td><td>Your trip</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>10/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>test_admin_en</td><td>en</td><td>test_admin_english_editedaaa</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>11/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>credit_card_type_help_en</td><td>en</td><td>Select credit or debit card type</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>12/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>try_again_en</td><td>en</td><td>Try Again</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>12/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>vat_en</td><td>en</td><td>VAT</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>12/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>buy_seat_and_checkin_en</td><td>en</td><td>Buy a seat &amp; check-in</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>check_in_en</td><td>en</td><td>Check-in</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>checkin_now_en</td><td>en</td><td>Check-in now</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>checkin_opens_en</td><td>en</td><td>Check in opens in %d days</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>checkin_passengers_popup_text_en</td><td>en</td><td>checkin_passengers_popup_text</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>checkin_passengers_popup_title_en</td><td>en</td><td>checkin_passengers_popup_title</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>flight_complete_en</td><td>en</td><td>Flight complete</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>free_allocate_en</td><td>en</td><td>Free Allocate</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>invalid_vat_en</td><td>en</td><td>Invalid VAT</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>no_selected_passengers_error_message_en</td><td>en</td><td>no_selected_passengers_error_message</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>not_now_en</td><td>en</td><td>Not now</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>purchase_seat_en</td><td>en</td><td>Purchase Seat</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>retrieve_boarding_pass_en</td><td>en</td><td>Retrieve Boarding pass</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>select_flight_en</td><td>en</td><td>Select flight</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>total_en</td><td>en</td><td>Total:</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>13/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>child_under_16_years_error_message_en</td><td>en</td><td>Children under the age of 16 years must be always accompanied by a passenger over 16 years. Children travelling with an adult that is booked on a separate reservation cannot check-in online. Please contact you local reservations centre for further assistance.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>16/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>passengers_without_seats_error_message_en</td><td>en</td><td>passengers_without_seats_error_message</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>16/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_MustSelectSeats_en</td><td>en</td><td>To be able to book Business Plus flight you must select seats for all passengers.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>16/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>Val_MustSelectSeats_title_en</td><td>en</td><td>Seats not selected</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>16/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>error_network_message_en</td><td>en</td><td>Please check your network connection and try again.</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>17/02/2015 00:00:00</td>
+		</tr><tr>
+			<td>title_nationalities_en</td><td>en</td><td>title_nationalities</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>17/02/2015 00:00:00</td>
+		</tr>
+	</table>
+</div>

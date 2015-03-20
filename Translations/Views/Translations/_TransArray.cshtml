@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Translations.Models.TransArray>
+<div class="transSection">
+	@Html.Label("Array", new { @class = "header" })
+	<div class="addline">addLine</div>
+	<div class="labelContainer arrayLine">
+	<div class="arrayLineToCopy hide">
+				<input type="text" class="arrayInput" value="" name="transArray.ArrayDescription" id="transArray" /><div class="removeLine">remove</div>
+				<input type="hidden" class="arrayInput" value="" name="transArray.TransArrayId" id="transArrayId" />
+	</div>
+
+
+
+		@if (Model != null && Model.Count() > 0)
+  {
+	  foreach (var item in Model.Where(x => x.ArrayDescription != string.Empty && x.IsActive))
+	  {
+			<div class="arrayLine">
+				<input type="text" class="arrayInput" value="@item.ArrayDescription" name="transArray.ArrayDescription" id="transArray" /><div class="removeLine edit">remove</div>
+				<input type="hidden" class="arrayInput" value="@item.TransArrayId" name="transArray.TransArrayId" id="transArrayId" />
+			</div>
+			
+	  }
+
+  }
+  else
+  {	
+	  <div class="arrayLine" data-aidx="0">
+	  <input type="text" class="arrayInput transArray" name="transArray.ArrayDescription" id="transArray" /><div class="removeLine create">remove</div>
+  </div>
+	
+  }
+
+	</div>
+	<div>

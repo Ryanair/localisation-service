@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Translations.Models.TransLang>
+
+<table class="transTable paginated">
+	<thead>
+		<tr>
+			<th>Key</th>
+			<th>Description</th>
+			<th>Active</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+  {
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Translations.TransKey)
+				</td>
+				<td>
+					@Html.DisplayFor(model => item.TransDescription)
+				</td>
+				<td>
+					@if (item.IsActive)
+					{
+						@:<i class='fa fa-check fa-2'></i>
+					}
+				</td>
+				<td>
+					@Html.ActionLink("Edit", "Edit", new { id = item.Translations.TransKey }, new { @class = "editRow" })
+				</td>
+			</tr>
+  }
+	</tbody>
+
+</table>

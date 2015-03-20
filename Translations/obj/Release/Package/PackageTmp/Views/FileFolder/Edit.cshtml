@@ -1,0 +1,70 @@
+﻿@model Translations.Models.FileFolder
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+	@Html.AntiForgeryToken()
+	@Html.ValidationSummary(true)
+
+	<fieldset>
+		<legend>FileFolder</legend>
+
+		<div class="editor-label">
+			<label for="tag">Tag</label>
+		</div>
+		<div class="editor-field">
+			<select name="tag.TagKey" id="tag_TagKey" class="valid">
+				@foreach (var item in Translations.Helpers.Core.ListTags)
+					{
+						<option value="@item.Value" @(item.Value.Equals(Model.Tags.TagKey.Trim(), StringComparison.InvariantCultureIgnoreCase) ? "selected='selected'" : "")>@item.Text</option>
+					}
+			</select>
+		</div>
+		<div class="editor-label">
+			<label for="lang">Lang</label>
+		</div>
+		<div class="editor-field">
+			<select name="lang.langKey" id="lang_langKey" class="valid">
+				@foreach (var item in Translations.Helpers.Core.ListLanguages)
+					{
+						<option value="@item.Value" @(item.Value.Equals(Model.Languages.LangKey.Trim(), StringComparison.InvariantCultureIgnoreCase) ? "selected='selected'" : "")>@item.Text</option>
+					}
+</select>
+		</div>
+
+
+
+		@Html.HiddenFor(model => model.FolderLangId)
+		<div class="editor-label">
+			@Html.LabelFor(model => model.FolderName)
+		</div>
+		<div class="editor-field">
+			@Html.EditorFor(model => model.FolderName)
+			@Html.ValidationMessageFor(model => model.FolderName)
+		</div>
+
+		<div class="editor-label">
+			@Html.LabelFor(model => model.FileName)
+		</div>
+		<div class="editor-field">
+			@Html.EditorFor(model => model.FileName)
+			@Html.ValidationMessageFor(model => model.FileName)
+		</div>
+
+		<p>
+			<input type="submit" value="Save" />
+		</p>
+	</fieldset>
+}
+
+<div>
+	@Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jqueryval")
+}
